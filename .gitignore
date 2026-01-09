@@ -1,0 +1,21 @@
+# 忽略IDE配置文件
+.idea/
+# 忽略虚拟环境目录
+venv/
+# 忽略编译缓存
+__pycache__/
+*.pyc
+*.pyo
+# 忽略测试缓存
+.pytest_cache/
+# 忽略日志和临时文件
+logs/
+temp/
+*.log
+.env
+original/
+data/models_reranker_data/
+data/models_embedding_data/
+rag_demo/chroma_db/
+**/chroma_db/
+environment.yml
