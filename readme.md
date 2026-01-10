@@ -1,5 +1,3 @@
-# tidy-agent-practice-open readme.md
-
 ## 项目介绍
 
 本项目是知识星球专栏《栖微 AI Agent 工程师实战成长营》的配套代码库，包含 AI Agent 开发的核心实践案例，涵盖记忆管理、工具调用、自我学习、工作流编排、RAG（检索增强生成）、认知策略等关键功能模块。通过实际可运行的代码示例，帮助开发者理解 AI Agent 的核心原理与实现方式，为学习 AI Agent 的开发者提供实践参考。
@@ -222,7 +220,7 @@ Self-ask 是针对 “多步问答任务” 设计的认知策略，通过模拟
 #### **1. 下载项目**
 
 ```bash
-git clone https://github.com/tidy/tidy-agent-practice.git
+git clone https://github.com/tinyseeking/tidy-agent-practice.git
 # 进入下载项目的根目录
 cd tidy-agent-practice
 ```
@@ -231,7 +229,7 @@ cd tidy-agent-practice
 
 这里介绍两种主要方式安装依赖：
 
-##### **方法 1：**在 Conda 环境中用 `pip` 安装（最通用，兼容性最好）
+##### 方法 1：在 Conda 环境中用 `pip` 安装（最通用，兼容性最好）
 
 1. 激活 Conda 环境
 
