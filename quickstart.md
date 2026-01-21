@@ -48,18 +48,14 @@
 
    如：
 
-   ```
-   (tidy-agent-practice-env) PS D:\dev\guwei\tidy-ai-lab\tidy-agent-practice> 
-   ```
-   
-   
+   ![image-20251218152255637](D:/data/typora-user-images/image-20251218152255637-17680165249581.png)
 
 ### 二、下载项目并安装依赖
 
 #### **1. 下载项目**
 
 ```bash
-git clone https://github.com/tidy/tidy-agent-practice.git
+git clone https://github.com/tinyseeking/tidy-agent-practice.git
 # 进入下载项目的根目录
 cd tidy-agent-practice
 ```
@@ -68,7 +64,7 @@ cd tidy-agent-practice
 
 这里介绍两种主要方式安装依赖：
 
-##### **方法 1：**在 Conda 环境中用 `pip` 安装（最通用，兼容性最好）
+##### 方法 1：在 Conda 环境中用 `pip` 安装（最通用，兼容性最好）
 
 1. 激活 Conda 环境
 

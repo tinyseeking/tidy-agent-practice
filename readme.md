@@ -159,7 +159,7 @@ Self-ask 是针对 “多步问答任务” 设计的认知策略，通过模拟
 
 基于 Streamlit 和 LangChain 的简单 RAG 问答系统，实现文档上传、内容解析与并基于检索文档内容进行智能问答。
 
-![](./tutorials/images/simple-rag-assistant.gif)
+![image-20260104160926112](./tutorials/images/image-20260104160926112.png)
 
 
 
@@ -494,6 +494,10 @@ streamlit run main.py
 系统将启动 Web 服务，默认地址为 [http://localhost:8501](http://localhost:8501/)
 
 ![image-20260104160926112](./tutorials/images/image-20260104160926112.png)
+
+![image-20260104161348195](./tutorials/images/image-20260104161348195.png)
+
+
 
 ## 加入星球
 
