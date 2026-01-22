@@ -1,6 +1,8 @@
 ## 项目介绍
 
-本项目是知识星球专栏《栖微 AI Agent 工程师实战成长营》的配套代码库，包含 AI Agent 开发的核心实践案例，涵盖记忆管理、工具调用、自我学习、工作流编排、RAG（检索增强生成）、认知策略等关键功能模块。通过实际可运行的代码示例，帮助开发者理解 AI Agent 的核心原理与实现方式，为学习 AI Agent 的开发者提供实践参考。
+本项目是知识星球专栏《栖微 AI Agent 工程师实战成长营》的配套代码库，致力于让开发者系统化掌握 AI Agent 全栈开发技术。代码库涵盖 AI Agent 技术架构，包含规划推理、记忆管理、工具调用、自我学习、工作流编排、检索增强生成（RAG）、认知策略等关键功能模块，并配套落地的实战案例等。通过实际可运行的代码示例，帮助开发者快速理解 AI Agent 核心原理、掌握生产落地实现方法，为学习 AI Agent 的开发者提供实践参考与技术指引。
+
+
 
 ## 代码结构
 
@@ -221,6 +223,8 @@ Self-ask 是针对 “多步问答任务” 设计的认知策略，通过模拟
 
 ```bash
 git clone https://github.com/tinyseeking/tidy-agent-practice.git
+# gitee 仓库使用
+# git clone https://gitee.com/tinyseeking/tidy-agent-practice.git
 # 进入下载项目的根目录
 cd tidy-agent-practice
 ```
@@ -499,7 +503,7 @@ streamlit run main.py
 
 
 
-## 加入星球
+## 星球专栏
 
 《栖微 AI Agent 工程师实战成长营》是专为开发者精心打造的「系统性 + 实战型」专栏，助力开发者「从 0 到 1 快速掌握 AI Agent 全栈开发能力，能独立落地商用级智能体应用」，构建职场与商业核心竞争力。
 
