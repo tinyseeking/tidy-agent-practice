@@ -43,11 +43,11 @@ tidy-agent-practice-open/
 
 结合实践经验，提出构建AI Agent的整体技术架构，包括八个模块。如下图所示：
 
-![](./tutorials/images/image-20251212112338601.jpg)
+![image-20251209100832596](./tutorials/images/image-20251209100832596.png)
 
 AI Agent的运行流程图如下：
 
-![](./tutorials/images/image-20251212112412089.jpg)
+![image-20251209113612867](./tutorials/images/image-20251209113612867.png)
 
 #### 1.1 memory（记忆管理）模块
 
@@ -110,7 +110,7 @@ Agent中工具的调用模式主要有以下三种：
 
 实现 "思考 - 行动 - 观察" 循环的认知模式，支持工具调用。
 
-![](./tutorials/images/image-20251212114002556.jpg)
+![image-20250730154511612](./tutorials/images/image-20250730154511612.png)
 
 完整代码位于项目根目录下：`cognitive_pattern/react`
 
@@ -509,9 +509,5 @@ streamlit run main.py
 
 **核心目标**：培养能独立完成 AI Agent 应用系统设计、开发、部署、迭代优化全流程的AI 应用（高级）工程师。
 
-![](./tutorials/images/Snipaste_2026-01-29_20-57-49.png)
-
-
-
-
+![](D:/data/typora-user-images/Snipaste_256545685654.png)
 
