@@ -509,5 +509,5 @@ streamlit run main.py
 
 **核心目标**：培养能独立完成 AI Agent 应用系统设计、开发、部署、迭代优化全流程的AI 应用（高级）工程师。
 
-![](D:/data/typora-user-images/Snipaste_256545685654.png)
+![](./tutorials/images/images_256545685654.png)
 
