@@ -503,7 +503,7 @@ streamlit run main.py
 
 
 
-**相关技术文章持续更新：** → [技术博客](https://tinyseeking.github.io/)
+相关技术文章（持续更新）： [技术博客 →](https://tinyseeking.github.io/)
 
 
 
